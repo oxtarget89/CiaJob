@@ -1,0 +1,14 @@
+ox_inventory/data/item
+
+['bodycam'] = {
+	label = 'Bodycam',
+	weight = 200,
+	stack = false,
+	description = 'Body cam à placer sur vous',
+},
+['dashcam'] = {
+	label = 'Dashcam',
+	weight = 200,
+	stack = false,
+	description = 'Dashcam Pour voitures',
+},
